@@ -8,7 +8,7 @@
         "symfony/var-dumper": "~2.6",
         "phpspec/phpspec": "~2.1"
     },
-    "license": "BSD",
+    "license": "MIT",
     "authors": [
         {
             "name": "mattcannon",
