@@ -22,13 +22,15 @@ To install this package using composer, run:
 ##Usage
 To create an untyped collection, you can use:
 
-```<?php
+```php
+<?php
 $collection = MattCannon\Collections\UntypedCollection::make([]);
 ```
 
 To create a typed collection, you can use
 
-```<?php
+```php
+<?php
 $collection = MattCannon\Collections\UntypedCollection::makeWithType([],'string');
 $collection = MattCannon\Collections\UntypedCollection::makeWithType([],'integer');
 $collection = MattCannon\Collections\UntypedCollection::makeWithType([],'stdClass');
