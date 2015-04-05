@@ -5,7 +5,7 @@ which can be type restricted.
  
 ##Current Status
 
-* todo
+[![Coverage Status](https://coveralls.io/repos/mattcannon/TypedCollections/badge.svg)](https://coveralls.io/r/mattcannon/TypedCollections)
 
 ##Requirements
 

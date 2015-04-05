@@ -17,7 +17,7 @@
     ],
     "autoload":{
         "psr-4":{
-            "MattCannon\\" : "MattCannon"
+            "MattCannon\\" : "src/MattCannon"
         }
     },
     "minimum-stability": "stable"
