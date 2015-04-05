@@ -4,8 +4,8 @@ This is an extension of Laravel's Illuminate\Support\Collection,
 which can be type restricted.
  
 ##Current Status
-
-[![Coverage Status](https://coveralls.io/repos/mattcannon/TypedCollections/badge.svg)](https://coveralls.io/r/mattcannon/TypedCollections)
+[![Build Status](https://travis-ci.org/mattcannon/TypedCollections.svg?branch=master)](https://travis-ci.org/mattcannon/TypedCollections)
+[![Build Status](https://travis-ci.org/mattcannon/TypedCollections.svg?branch=develop)](https://travis-ci.org/mattcannon/TypedCollections)
 
 ##Requirements
 
